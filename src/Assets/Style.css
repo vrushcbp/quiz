@@ -63,17 +63,16 @@
 
 .score {
   position: absolute;
-  width: 1024px;
   font-size: 3em;
   top: 250px;
-  text-align: center;
+  text-align: center  !important;
 }
 
 .playBtn {
   position: absolute;
   font-size: 1.4em;
   padding: 10px;
-  top: 350px;
+  top: 490px;
   background-color: rgb(46, 182, 46);
   color: rgb(255, 255, 255);
   width: 150px;
